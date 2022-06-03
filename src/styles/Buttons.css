@@ -1,0 +1,48 @@
+.buttons-container {
+  width: 265px;
+  display: flex;
+  justify-content: space-between;
+  margin-top: 15px;
+  margin-bottom: 24px;
+}
+
+.buttons-container > a {
+  text-decoration: none;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.email-button {
+  border-radius: 6px;
+  height: 38px;
+  width: 120px;
+  font-family: 'Inter', sans-serif;
+  font-size: 14px;
+  line-height: 16px;
+  font-weight: 500;
+  cursor: pointer;
+  border: none;
+}
+
+.email-button > span {
+  margin-left: 8px;
+}
+
+.linkedin-button {
+  background-color: #5093E2;
+  color: white;
+  border-radius: 6px;
+  height: 38px;
+  width: 120px;
+  font-family: 'Inter', sans-serif;
+  font-size: 14px;
+  line-height: 16px;
+  font-weight: 500;
+  cursor: pointer;
+  border: none;
+}
+
+.linkedin-button > span {
+  margin-left: 8px;
+}

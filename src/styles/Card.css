@@ -1,0 +1,9 @@
+.card-container {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+}
+
+.profile-pic {
+  width: 371px;
+}
