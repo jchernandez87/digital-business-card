@@ -14,14 +14,13 @@
   </a>
 </p>
 
-### * Prerequisites
+### Prerequisites
 
 * Node
 * React
 
-<br>
 
-### * Installation
+### Installation
 
 1. Clone the repo
    ```sh
@@ -36,8 +35,6 @@
    npm start
    ```
 
-<br>
-<br>
 👤 **Juan Carlos Hernandez**
 
 - GitHub: [@JuanCarlos](https://github.com/jchernandez87)
