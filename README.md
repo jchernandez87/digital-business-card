@@ -9,9 +9,11 @@
   A digital business card I made using react.
 
 
-  <a href="https://jchernandez87.github.io/digital-business-card/">
-    <img src="https://user-images.githubusercontent.com/44485810/171763165-899865f0-9bf4-49fd-a75a-d8cce517e19f.png" alt="screenshot" width="260" height="auto">
-  </a>
+  <p align="center">
+    <a href="https://jchernandez87.github.io/digital-business-card/">
+     <img src="https://user-images.githubusercontent.com/44485810/171763165-899865f0-9bf4-49fd-a75a-d8cce517e19f.png" alt="screenshot" width="260" height="auto">
+    </a>
+  </p>
 </p>
 
 ### Prerequisites
